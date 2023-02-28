@@ -4576,6 +4576,8 @@ body {
     letter-spacing: var(--body-font-spacing, normal);
     background-color: var(--body-color-background, #fff);
     color: inherit;
+     overflow-x:hidden;
+    overflow-y:hidden;
     position: relative
 }
 
